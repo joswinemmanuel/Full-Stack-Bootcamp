@@ -1,0 +1,42 @@
+h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: 'Protest Revolution', sans-serif;
+}
+
+body {
+    background: rgb(156, 255, 156)
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    height: 400px;
+    width: 175px;
+    border: 10px solid rgb(156, 255, 156)
+}
+
+#one {
+    background: violet;
+}
+
+#two {
+    background: rgb(255, 255, 98)
+}
+
+#three {
+    background: rgb(183, 107, 255)
+}
+
+#four {
+    background: rgb(255, 193, 78)
+}
+
+#five {
+    background: rgb(255, 70, 70);
+}
