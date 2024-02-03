@@ -1,0 +1,20 @@
+body {
+    background: url(https://wallpapercave.com/wp/wp6334563.jpg)
+}
+
+p {
+    color: black;
+    font-size: 30px;
+}
+
+div {
+    background: greenyellow;
+    border-style: double;
+    border-color: black;
+    border-width: 10px;
+}
+
+span {
+    background: black;
+    color: greenyellow;
+}
